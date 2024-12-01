@@ -1,4 +1,4 @@
-package org.t246osslab.easybuggy4sb.vulnerabilities;
+/** package org.t246osslab.easybuggy4sb.vulnerabilities;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -88,4 +88,4 @@ public class SQLInjectionController extends AbstractController {
 		});
 		//*/ End Remediated Section
 	}
-}
+} **/
